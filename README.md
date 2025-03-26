@@ -26,7 +26,7 @@ Esta é uma calculadora simples desenvolvida em Java que oferece operações mat
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/calculadora-java.git
+git clone https://github.com/GuiOliver27/algoritmos.git
 cd calculadora-java
 ```
 
